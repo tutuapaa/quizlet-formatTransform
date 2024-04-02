@@ -1,0 +1,304 @@
+﻿1@arithmetic@- n. 算术
+- 计算
+
+形容词:  
+arithmetic
+
+副 词:  
+arithmetically
+
+名 词:  
+arithmetician
+2@codex@n. 古抄本；[古]法典；[医]药典
+
+
+复 数: 
+codices
+3@commonality@n. 公共,平民
+4@concrete@- adj. 实在的，具体的；有形的；混凝土的
+- vi. 凝结
+- vt. 用混凝土修筑；使凝固
+- n. 凝结物；具体物
+
+
+时 态:  
+concreted, concreting, concretes  
+
+副 词:  
+concretely
+5@conduct@- v. 组织，实施，进行；指挥（音乐）；带领，引导；举止，表现；传导（热或电）
+- n. 行为举止；管理（方式），实施（办法）；引导
+
+
+时 态:  
+conducted, conducting, conducts 
+
+名 词:  
+conductibility
+
+形容词:  
+conductible
+6@converse@- adj. 相反的，逆向的；颠倒的
+- vi. 交谈，谈话；认识
+- n. 相反的事物；逆行，逆向；倒
+
+
+时 态:  
+conversed, conversing, converses 
+
+副 词:  
+conversely
+7@correspond@- vi. 相符合, 相一致
+- 相当, 相类似
+- 通信
+
+时 态:  
+corresponded, corresponding, corresponds
+8@cripple@- vt. 使跛, 受伤致残
+- 严重削弱, 使陷于瘫痪
+
+时 态:  
+crippled, crippling, cripples
+9@decomposed@adj. 已分解的,已腐烂的
+10@demonstrate@- vi. 举行示威游行(或集会)
+- vt. 说明, 演示
+- 论证, 证明
+- 显示, 表露
+
+时 态:  
+demonstrated, demonstrating, demonstrates
+11@diverse@adj. 不同的；相异的；多种多样的；形形色色的
+
+副 词:  
+diversely
+12@doomed@- adj. 注定的；命定的
+- v. 注定；宣判（doom的过去分词）
+13@efficacy@n. 效力,效能
+14@embedded@adj. 植入的,深入的,内含的
+15@envisage@vt. 正视，面对；想像
+
+
+时 态:  
+envisaged, envisaging, envisages
+16@equivalent@- adj.  等同的，等效的
+- n. 对等的人（或事物），对应的人（或事物）
+17@exhibit@- vt. 显示；展览；提出（证据等）
+- n. 展览品；证据；展示会
+- vi. 展出；开展览会
+
+
+时 态:  
+exhibited, exhibiting, exhibits 
+
+形容词:  
+exhibitory
+18@explicit@- adj. 详述的, 明确的, 明晰的
+- 直言的, 毫不隐瞒的, 露骨的
+
+副 词:  
+explicitly
+19@extent@- n. 长度, 面积, 范围
+- 程度, 限度
+20@generative@- adj. 能生产的, 有生产力的
+- 生殖的
+21@hint@- n. 暗示；线索
+- vt. 暗示；示意
+- vi. 示意
+
+
+时 态:  
+hinted, hinting, hints
+22@hypothesize@v. 假设,假定,猜测
+
+时 态:  
+hypothesized, hypothesizing, hypothesizes
+23@implication@n. 暗示；牵连，卷入；含义
+
+
+形容词:  
+implicative
+24@intent@- n. 意图；目的；含义
+- adj. 专心的；急切的；坚决的
+
+
+副 词:  
+intently
+
+名 词:  
+intentness
+25@introductory@adj. 引导的，介绍的；导言的
+26@iterate@vt. 反复说；重复；重做；[计]迭代
+
+
+时 态:  
+iterated, iterating, iterates
+27@lexical@- adj. 词汇的
+- 具词典性质的,词典的
+
+名 词:  
+lexicality
+
+副 词:  
+lexically
+28@linguist@n. 语言学家
+29@miserable@- adj. 悲惨的，不幸的，可怜的
+- 令人痛苦的；令人不快的
+- 低劣的；贫乏的
+- 卑鄙的，可耻的，可恶的
+
+名 词:  
+miserable
+
+名 词:  
+miserableness
+
+副 词:  
+miserably
+30@modification@- n. 缓和,限制,减轻
+- 更改,改变,修改
+
+名 词:  
+modificator
+
+形容词:  
+modificatory
+31@nonsensical@adj. 无意义的;荒谬的;愚蠢的
+32@novice@n. 初学者，新手
+33@paraphrase@n. 释义, 意译
+
+时 态:  
+paraphrased, paraphrasing, paraphrases
+34@participant@n. 参加者, 参与者
+
+名 词:  
+participance
+35@pedagogical@adj. 教师的；适宜于教师的；教学(法)的(pedagogical)
+36@percentile@- n. 百分位(数)
+- 百分位(数)之一
+37@perception@- n. 感知(能力)；觉察(力)
+- 认识，观念，看法
+
+形容词:  
+perceptional
+38@perplexity@- n. 困惑；混乱
+- 复杂，困难
+39@pivotal@- adj. 作为支点的, 枢轴的
+- 中枢的, 关键的
+40@plug-in@n. 插件程序
+41@preserve@- vt. 保存；保护；维持；禁猎；腌
+- n. 禁猎地；保护区；加工成的食品
+- n. (某人或群体的）专门活动
+
+
+时 态:  
+preserved, preserving, preserves 
+
+名 词:  
+preservability
+
+形容词:  
+preservable
+
+名 词:  
+preservation
+
+名 词:  
+preserver
+42@prior@- adj. 在先的，在前的；优先的
+- adv. 在前，居先
+
+Prior普赖尔(姓氏)
+
+名 词:  
+priorate
+43@proportion@- n. 均衡；相称，协调
+- 一物与他物在数量、大小等方面的关系；比例
+- 部分；份儿
+
+时 态:  
+proportioned，proportioning，proportions 
+
+形容词:  
+proportionable
+
+副 词:  
+proportionably
+
+名 词:  
+proportioner
+
+名 词:  
+proportionment
+44@propose@vt. & vi. 提议；建议；计划；求婚
+
+时 态:  
+proposed，proposing，proposes 
+
+名 词:  
+proposer
+45@pursuit@n. 职业，工作；追赶，追求
+46@radically@- adv. 根本地;彻底地;完全地
+- 激进地;极端地
+47@rephrase@vt. 改述,改撰
+
+时 态:  
+rephrased, rephrasing, rephrases
+48@semantical@- adj. 语义的
+49@specification@- n. 说明书, 详细的计划书
+- 载明, 详述, 说明
+50@specify@vt. 指定；列举；详细说明；把…列入说明书
+
+
+时 态:  
+specified, specifying, specifies 
+
+名 词:  
+specifier
+51@supervise@vt. & vi. 监督, 管理
+
+时 态:  
+supervised, supervising, supervises
+52@syntactical@adj. 依照句法的
+53@syntax@n. 句法;句法规则〔分析〕
+54@synthesize@- vt. 综合, 使合成
+- 人工合成
+
+时 态:  
+synthesized, synthesizing, synthesizes
+55@tabulate@- adj. 平板状的；有平面的
+- vt. 使成平面；把…制成表格
+- vi. 制成表格
+
+
+时 态:  
+tabulated, tabulating, tabulates 
+
+名 词:  
+tabulation
+56@terse@adj. 简洁的，精练的，扼要的
+
+
+比较级:  
+terser, tersest 
+
+副 词:  
+tersely
+
+名 词:  
+terseness
+57@tune@- n. 曲调, 曲子
+- vt. & vi. 调音
+- vt. 调整
+
+时 态:  
+tuned, tuning, tunes
+58@underlying@- adj. 根本的, 基础的
+- 含蓄的, 潜在的
+59@variation@- n. 变化, 变动(的程度)
+- 变奏(曲)
+- 变异, 变种
+
+形容词:  
+variational
+60@verbatim@- adj. & adv. (完全)照字面的(地),逐字的(地)
+- n. 逐字翻译
